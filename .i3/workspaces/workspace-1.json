@@ -1,0 +1,22 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 0,
+    "floating": "user_off",
+    "geometry": {
+       "height": 1030,
+       "width": 1912,
+       "x": 4294967295,
+       "y": 4294967295
+    },
+    "name": "idea",
+    "percent": 1,
+    "swallows": [
+       {
+        "class": "jetbrains-idea",
+        "instance": "sun-awt-X11-XFramePeer"
+       }
+    ],
+    "type": "con"
+}
+
