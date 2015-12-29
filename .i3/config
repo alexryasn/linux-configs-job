@@ -164,7 +164,7 @@ assign [class="^chromium-browser$"] 5 chrome
 assign [class="Skype"] 6 im
 assign [class="Pidgin"] 6 im
 
-for_window [class="jetbrains-idea"] border normal 0
+for_window [class="jetbrains-idea"] border normal 1
 for_window [class="Sublime_text"] border normal 0
 for_window [class="Firefox"] border normal 0
 for_window [class="Document Viewer"] border normal 0
