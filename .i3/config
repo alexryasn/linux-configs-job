@@ -157,7 +157,7 @@ bindsym $mod+n exec nautilus
 bindsym $mod+m move workspace to output left
 
 # place app to container
-assign [class="jetbrains-idea"] 1 code
+#assign [class="jetbrains-idea"] 1 code
 assign [class="Sublime_text"] 2 info
 assign [class="Firefox"] 3 web-code
 assign [class="^chromium-browser$"] 5 chrome
