@@ -209,9 +209,9 @@ bindsym $mod+Tab workspace back_and_forth
 workspace_auto_back_and_forth yes
 
 # Enable/disable caps mode
-mode "RU" {
-        bindsym Caps_Lock mode "default"
-}
-bindsym Caps_Lock mode "RU"
+#mode "RU" {
+        #bindsym Caps_Lock mode "default"
+#}
+#bindsym Caps_Lock mode "RU"
 
 exec --no-startup-id ~/.i3/autostart.sh
