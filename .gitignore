@@ -3,6 +3,8 @@
 !.xsessionrc
 !.bashrc
 !.i3status.conf
+!.xxkbrc
+!.bash_profile
 !.i3/
 !.i3/*
 !.i3/workspaces/
