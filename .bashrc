@@ -131,5 +131,5 @@ alias clear='clear; nword'
 alias trans='python3.4 ~/projects/own/github/cli-yandex-translate/ya-translate.py en-ru'
 alias transr='python3.4 ~/projects/own/github/cli-yandex-translate/ya-translate.py ru-en'
 export YANDEX_TRANSLATE_KEY=keyKey21321321
-export YANDEX_TRANSLATE_DICTIONARY_FILE=~/soft/dict/yandex-translate-dictionary.csv
-export GOOGLE_PHRASEBOOK_DICTIONARY_FILE=~/soft/dict/google-translate-phrasebook.csv
+export YANDEX_TRANSLATE_DICTIONARY_FILE=~/Dropbox/dict/yandex-translate-dictionary.csv
+export GOOGLE_PHRASEBOOK_DICTIONARY_FILE=~/Dropbox/dict/google-translate-phrasebook.csv

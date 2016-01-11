@@ -1,1 +1,1 @@
-setleds -D +num
+#setleds -D +num
